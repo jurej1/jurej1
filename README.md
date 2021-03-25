@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jurej1
 - 👀 I’m interested in Flutter App Development
 - 🌱 I’m currently learning how to build a running Application.
-- 💞️ I’m looking to collaborate on any Flutter projects.
+- 💻 I’m looking to collaborate on any Flutter projects.
 - 📫 How to reach me? My gmail is jure.04jj@gmail.com
 
 <!---
